@@ -53,7 +53,7 @@ ion-side-menu li.item.item-divider {
 }
 
 .mm-site_mm_courses .tabs-icon-left {
-  background-color: #EBEFF8;
+  background-color: #ff8563; 
 }
 .mm-site_mm_courses section h2 span {
   font-weight: bold;
@@ -66,6 +66,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-ios,
 .toolbar-background-wp {
   background: #5069A1;
+  background-image: url("https://www.ikea.com/eg/en/images/products/tjalla-wall-clock__0633571_PE695905_S5.JPG");
 }
 
 /* Bottom tabs selected color */
