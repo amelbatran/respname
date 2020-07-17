@@ -65,7 +65,7 @@ ion-side-menu li.item.item-divider {
 .toolbar-background-md,
 .toolbar-background-ios,
 .toolbar-background-wp {
-  background: #a1d0ff;
+  background: #5069A1;
 }
 
 /* Bottom tabs selected color */
@@ -177,7 +177,3 @@ page-core-mainmenu-more .ion-ios-log-out,
 page-core-mainmenu-more .ion-wp-log-out {
   color: red;
 }
-
-.bar-content {
-   background: red;
- }
