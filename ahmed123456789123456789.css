@@ -5,7 +5,7 @@
 ion-side-menu li .item {
   background-color: #313848;
   border-color: #4F5865;
-  color: transparent;
+  color: #BCC3CF;
 
 }
 
@@ -53,7 +53,7 @@ ion-side-menu li.item.item-divider {
 }
 
 .mm-site_mm_courses .tabs-icon-left {
-  background-color: transparent;
+  background-color: #EBEFF8;
 }
 .mm-site_mm_courses section h2 span {
   font-weight: bold;
@@ -78,7 +78,7 @@ ion-side-menu li.item.item-divider {
 .tabs-wp .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-wp .core-tabs-bar a[aria-selected=true].tab-slide .tab-button-icon,
 .core-tabs-bar .tabs-wp a[aria-selected=true].tab-slide .tab-button-icon {
-  color: transparent;
+  color: #EBEFF8;
 }
 
 /* Tabs color*/
@@ -169,7 +169,7 @@ page-core-mainmenu-more .ion-wp-help-buoy {
 page-core-mainmenu-more .ion-md-cog,
 page-core-mainmenu-more .ion-ios-cog,
 page-core-mainmenu-more .ion-wp-cog {
-  color: transparent;
+  color: dimgray;
 }
 
 page-core-mainmenu-more .ion-md-log-out,
@@ -177,16 +177,13 @@ page-core-mainmenu-more .ion-ios-log-out,
 page-core-mainmenu-more .ion-wp-log-out {
   color: red;
 }
+
 ion-content {
     background-image: url('https://www.ikea.com/eg/en/images/products/tjalla-wall-clock__0633571_PE695905_S5.JPG');
 }
+
 
 div {
     background-color: transparent;
     /*color: transparent;*/
 }
-/*
-div. {
-    background-image: url('https://www.ikea.com/eg/en/images/products/tjalla-wall-clock__0633571_PE695905_S5.JPG');
-}
-*/
