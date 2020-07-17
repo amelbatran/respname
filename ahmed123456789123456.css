@@ -182,7 +182,8 @@ ion-content {
 }
 
 div {
-    background: transparent;
+    background-color: transparent;
+    color: transparent;
 }
 /*
 div. {
