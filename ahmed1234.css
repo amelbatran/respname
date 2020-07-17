@@ -177,3 +177,7 @@ page-core-mainmenu-more .ion-ios-log-out,
 page-core-mainmenu-more .ion-wp-log-out {
   color: red;
 }
+
+.bar-content {
+   background-color: blue;
+ }
