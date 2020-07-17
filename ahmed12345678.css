@@ -177,3 +177,6 @@ page-core-mainmenu-more .ion-ios-log-out,
 page-core-mainmenu-more .ion-wp-log-out {
   color: red;
 }
+ion-content {
+    --background: url('https://www.ikea.com/eg/en/images/products/tjalla-wall-clock__0633571_PE695905_S5.JPG') no-repeat 100% 100%;
+}
